@@ -27,9 +27,7 @@ Time spent: `10`
 - [ ] User can connect to the server using an FTP client
 
 
-### Walkthrough
 
-![Video Walkthrough](https://vimeo.com/user39231823/videos)
 
 
 
