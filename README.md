@@ -65,4 +65,4 @@ curl -v http://localhost:8000/test/data.txt  -X DELETE
 curl -v http://localhost:8000/test/ -X DELETE
 
 ````
-[![solarized dualmode](https://github.com/gabhi/codepath-dropbox/blob/master/codepath-dropbox.gif)]
+![solarized dualmode](https://github.com/gabhi/codepath-dropbox/blob/master/codepath-dropbox.gif)
